@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiaenatura00delagoog_0006.png"; bbox 0 0 2850 4684; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 269 1698 2567 2221">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 269 1698 2567 2221">
+     <span class='ocr_line' id='line_1_1' title="bbox 427 1698 2439 1900; baseline -0.003 -73"><span class='ocrx_word' id='word_1_1' title='bbox 427 1698 938 1900; x_wconf 65' lang='lat' dir='ltr'><strong>CAH</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1023 1699 1599 1841; x_wconf 88' lang='lat' dir='ltr'>PLINII</span> <span class='ocrx_word' id='word_1_3' title='bbox 1687 1698 2439 1823; x_wconf 84' lang='lat' dir='ltr'><strong>SECUNDI</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 269 1974 2567 2221; baseline -0.003 -25"><span class='ocrx_word' id='word_1_4' title='bbox 269 1974 1380 2195; x_wconf 80' lang='lat' dir='ltr'>HISTORIAE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1501 2052 2567 2221; x_wconf 82' lang='lat' dir='ltr'><strong>NATURALIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1031 2420 2527 2559">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1031 2420 2527 2559">
+     <span class='ocr_line' id='line_1_3' title="bbox 1031 2420 2527 2559; baseline 0.002 -52"><span class='ocrx_word' id='word_1_6' title='bbox 1031 2420 1401 2509; x_wconf 83' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_7' title='bbox 1465 2420 1978 2511; x_wconf 84' lang='lat' dir='ltr'>XXXVII</span> <span class='ocrx_word' id='word_1_8' title='bbox 2224 2538 2269 2559; x_wconf 56' lang='lat'>„</span> <span class='ocrx_word' id='word_1_9' title='bbox 2507 2442 2527 2455; x_wconf 90' lang='lat'><strong>·</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
